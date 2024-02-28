@@ -1,0 +1,31 @@
+.name2 {
+  border: 3px solid;
+  border-color: #ffa70d #f2c109 #e23fa0 #f800ff;
+  text-shadow: 1px 1px 20px black;
+  width: 450px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.name {
+	text-align: center;
+	font-family: Keetano Katakana;
+	letter-spacing: 15px;
+	
+}
+
+.container {
+	border: 3px solid;
+	border-color: #ffa70d #f2c109 #e23fa0 #f800ff;
+	width: 450px;
+	border-radius: 10px;
+	text-shadow: 1px 1px 20px black;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.hyr {
+	font-family: Keetano Katakana;
+	text-align: center;
+	letter-spacing: 15px;
+}
